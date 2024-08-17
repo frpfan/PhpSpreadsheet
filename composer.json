@@ -108,7 +108,7 @@
     },
     "autoload": {
         "psr-4": {
-            "PhpOffice\\PhpSpreadsheet\\": "src/PhpSpreadsheet"
+            "PhpOffice\\PhpSpreadsheet\\": ""
         }
     },
     "autoload-dev": {
